@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimerJuego2D</string>
+    <string name="Img">ImgFondo2</string>
+    <string name="Img2">ImgFondo1</string>
+</resources>
